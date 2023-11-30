@@ -9,7 +9,7 @@
 <br>
 
 #### About me
-  - 🖌️ I’m currently working on BrushRythm, a mobile application inspired by Duolingo for artists, to help maintain daily practice and motivation
+  - 🖌️ I’m currently working on [BrushRythm](https://github.com/Flora-Pvt/brushrythm-mobileapp), a mobile application inspired by Duolingo for artists, to help maintain daily practice and motivation
   - 🌱 I’m currently learning React Native
   - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-flora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flora-preuvot)
   - 🌎 Just for fun: [Qomon x Three.js](https://github.com/Flora-Pvt/threejs-landing-page), a small project created to illustrate a Three.js presentation
@@ -17,6 +17,6 @@
 <br>
 
 #### Languages and Tools
-JavaScript (ES6+) - TypeScript - Svelte - Vue.js - React - Astro - Tailwind CSS - Sass - HTML/CSS - Node.js - Express - Git
+JavaScript (ES6+) - TypeScript - React - Vue.js - Svelte - Astro - Tailwind CSS - Sass / SCSS - HTML/CSS - Node.js - Express - Git
   <br>
   <br>
