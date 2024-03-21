@@ -7,7 +7,7 @@
   <p>Hi, I'm Flora, web developer based in Montréal, Canada</p>
   <br>
   
-  <p>Here you will find files created to test new technologies, the latest if you are curious: </p>
+  <p>Here you will find repositories created to learn new techs, the latest if you are curious: </p>
   <p>🖌️A Duolingo-inspired app for artists in <a href="https://github.com/floraprvt/brushrythm-mobileapp">React Native</a> and <a href="https://github.com/floraprvt/brushrythm-backend">Node.js</a> </p>
   <p>🥳 A Gathertown-inspired app in <a href="https://github.com/benoitdelorme/gather-socket/tree/dev/flora">Nuxt</a> - teamwork</p>
 </div>
